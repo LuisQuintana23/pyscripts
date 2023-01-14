@@ -22,3 +22,10 @@ por carpeta
 - Mover recursivamente todos los archivos
 segun sea su tipo de extension
 
+
+## Metodos
+
+`rglob` permite buscar por extensión
+
+
+  
